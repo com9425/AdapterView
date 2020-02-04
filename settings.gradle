@@ -1,0 +1,2 @@
+include ':app', ':listview2', ':ghaja', ':gridview', ':galleryex', ':spinnerex', ':myapplication', ':customlistview'
+rootProject.name='AdapterView'
